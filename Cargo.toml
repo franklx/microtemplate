@@ -2,7 +2,7 @@
 name = "microtemplate"
 description = "Fast, microscopic helper crate for runtime string interpolation."
 repository = "https://github.com/Legend-of-iPhoenix/microtemplate"
-version = "1.0.4"
+version = "1.0.4+frk.1"
 edition = "2021"
 license = "MIT OR Apache-2.0"
 keywords = ["template"]
@@ -10,6 +10,8 @@ categories = ["template-engine"]
 readme = "README.md"
 
 authors = ["_iPhoenix_ <theiphoenixconspiracy@gmail.com>"]
+
+publish = ["elleci"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
